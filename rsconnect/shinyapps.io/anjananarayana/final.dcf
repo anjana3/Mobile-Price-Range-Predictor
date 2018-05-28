@@ -1,0 +1,12 @@
+name: final
+title: final
+username:
+account: anjananarayana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 319582
+bundleId: 1314965
+url: https://anjananarayana.shinyapps.io/final/
+when: 1523514798.17811
+asMultiple: FALSE
+asStatic: FALSE

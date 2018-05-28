@@ -1,0 +1,12 @@
+name: mobileprice
+title: mobileprice
+username:
+account: anjananarayana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 320486
+bundleId: 1314971
+url: https://anjananarayana.shinyapps.io/mobileprice/
+when: 1523515383.05063
+asMultiple: FALSE
+asStatic: FALSE
